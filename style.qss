@@ -1,0 +1,5 @@
+QWidget#StyleWidget{
+    background: rgb(68, 69, 73);
+    border-width: 1;
+    border-style: none;
+}
